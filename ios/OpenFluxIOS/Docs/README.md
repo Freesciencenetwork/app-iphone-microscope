@@ -34,7 +34,7 @@ See [`Docs/ATS-Info-fragment.md`](ATS-Info-fragment.md) for the plist fragment.
 
 ## Shell helpers (repo root)
 
-Same API as the bash tools under [`../../../../scripts`](../../../../scripts) (e.g. `openflexure_stage.sh`, `openflexure_camera_test.sh`).
+Same API as the bash tools under [`../../../scripts`](../../../scripts) (e.g. `openflexure_stage.sh`, `openflexure_camera_test.sh`).
 
 ## Reference API
 
@@ -42,7 +42,7 @@ Same API as the bash tools under [`../../../../scripts`](../../../../scripts) (e
 
 ## Assets (optional)
 
-Design reference: `../../../../assets/image-256ff73d-c754-4511-8bd3-850a6895a940.png` — add to **Asset Catalog** if desired.
+Design reference: `../../../assets/image-256ff73d-c754-4511-8bd3-850a6895a940.png` — add to **Asset Catalog** if desired (create `assets/` at repo root if you use it).
 
 ## Entry point
 
